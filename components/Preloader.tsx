@@ -53,15 +53,21 @@ const Preloader = () => {
             <div className="preloader-item h-full w-[10%] bg-black"></div>
             <div className="preloader-item h-full w-[10%] bg-black"></div>
 
-            <p className="name-text flex text-[20vw] lg:text-[200px] font-anton text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 leading-none overflow-hidden">
-                <span className="inline-block translate-y-full">T</span>
+            <p className="name-text flex text-[12vw] lg:text-[130px] font-anton text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 leading-none overflow-hidden whitespace-nowrap">
                 <span className="inline-block translate-y-full">A</span>
-                <span className="inline-block translate-y-full">J</span>
-                <span className="inline-block translate-y-full">M</span>
+                <span className="inline-block translate-y-full">B</span>
+                <span className="inline-block translate-y-full">H</span>
                 <span className="inline-block translate-y-full">I</span>
-                <span className="inline-block translate-y-full">R</span>
-                <span className="inline-block translate-y-full">U</span>
-                <span className="inline-block translate-y-full">L</span>
+                <span className="inline-block translate-y-full">P</span>
+                <span className="inline-block translate-y-full">S</span>
+                <span className="inline-block translate-y-full">A</span>
+                <span className="inline-block translate-y-full w-4 md:w-6">
+                    &nbsp;
+                </span>
+                <span className="inline-block translate-y-full">B</span>
+                <span className="inline-block translate-y-full">O</span>
+                <span className="inline-block translate-y-full">S</span>
+                <span className="inline-block translate-y-full">E</span>
             </p>
         </div>
     );
