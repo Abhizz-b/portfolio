@@ -65,7 +65,8 @@ const Banner = () => {
                     <div className="flex items-center gap-2 mt-3">
                         <span className="size-3 rounded-full bg-white"></span>
                         <span className="text-sm text-muted-foreground">
-                            Available for internships & opportunities
+                            Available for internships, full-time roles &
+                            opportunities
                         </span>
                     </div>
                 </div>
@@ -81,7 +82,7 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            3+
+                            5+
                         </h5>
                         <p className="text-muted-foreground">Projects Built</p>
                     </div>

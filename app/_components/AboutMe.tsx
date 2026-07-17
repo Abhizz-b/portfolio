@@ -73,11 +73,11 @@ const AboutMe = () => {
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I&apos;m a Flutter developer and Computer
-                                Science undergraduate specializing in AI & ML,
-                                dedicated to building AI-powered software
-                                applications with clean, intuitive user
-                                experiences.
+                                I&apos;m a Flutter Developer , Frontend
+                                Developer, and a Computer Science undergraduate
+                                specializing in AI & ML, dedicated to building
+                                AI-powered software applications with clean,
+                                intuitive user experiences.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
                                 I focus on integrating AI models, building
