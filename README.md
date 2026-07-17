@@ -1,6 +1,6 @@
 # Portfolio - Abhipsa Bose
 
-Personal portfolio site showcasing my projects, skills, and experience as a Flutter developer and CS undergraduate specializing in AI & ML. I love purple, so I've made it my digital signature — woven into the theme across every corner of this site.
+Personal portfolio site showcasing my projects, skills, and experience as a Flutter & Frontend developer and CSE undergraduate specializing in AI & ML. I love purple, so I've made it my digital signature woven into the theme across every corner of this site.
 
 🔗 **Live site:** https://portfolio-abhizz.vercel.app/  
 🔗 **GitHub:** [github.com/abhizz-b](https://github.com/abhizz-b)  
